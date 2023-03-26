@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-     
-
-- 📫 How to reach me **https://www.linkedin.com/in/bharatsharma2486/**
+ 
 - Portfolio - https://bharat24862486.github.io/
 
 <h3 align="left">Connect with me:</h3>
